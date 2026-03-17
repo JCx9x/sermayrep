@@ -20,7 +20,7 @@ const contactInfo = [
       </svg>
     ),
     label: "Teléfono",
-    lines: ["+34 975 123 456", "+34 600 000 000"],
+    lines: ["+34 655 175 208"],
   },
   {
     icon: (
@@ -185,7 +185,7 @@ export default function Contact() {
             {/* Mobile quick contact buttons */}
             <div className="flex flex-col gap-3 mt-4 md:hidden">
               <a
-                href="https://wa.me/34600000000"
+                href="https://wa.me/34655175208"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center gap-2 bg-green-500 text-white font-semibold py-3.5 rounded-lg hover:bg-green-600 transition-colors"
@@ -197,7 +197,7 @@ export default function Contact() {
                 WhatsApp Directo
               </a>
               <a
-                href="tel:+34975123456"
+                href="tel:+34655175208"
                 className="flex items-center justify-center gap-2 border-2 border-gray-200 text-gray-800 font-semibold py-3.5 rounded-lg hover:bg-gray-50 transition-colors"
               >
                 <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
