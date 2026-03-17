@@ -1,2 +1,0 @@
-# sermayrep
-sermyrep landing page
